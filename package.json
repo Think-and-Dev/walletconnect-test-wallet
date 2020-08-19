@@ -26,7 +26,7 @@
     "url": "https://github.com/walletconnect/walletconnect-test-wallet/issues"
   },
   "dependencies": {
-    "@walletconnect/client": "^1.0.14",
+    "@walletconnect/client": "^1.1.0",
     "@walletconnect/utils": "^1.0.14",
     "axios": "^0.19.2",
     "bignumber.js": "^9.0.0",
